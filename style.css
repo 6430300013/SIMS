@@ -1,0 +1,28 @@
+.container{
+    min-height: 50vh;
+}
+.fa-pen-to-square, .fa-trash{
+    cursor: pointer;
+}
+.bt-b{
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin: 10px;
+}
+.bt-r{
+    background-color: #ba0a0a;
+    color: rgb(255, 255, 255);
+    margin: 5px;
+}
+.bt-y{
+    background-color: #ffb71d;
+    color: black;
+    text-decoration: none;
+    margin: 10px;
+
+}
+.all-header{
+    background-color: #ffb71d;
+    
+}
